@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_print_reverse_alphabet.c                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: jmehmy <jmehmy@student.42lisboa.com>       +#+  +:+       +#+        */
+/*   By: marvin < marvin@42.fr >                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2024/08/15 15:45:38 by jmehmy            #+#    #+#             */
-/*   Updated: 2024/08/15 17:04:27 by jmehmy           ###   ########.fr       */
+/*   Created: 2024/08/15 15:45:38 by marvin            #+#    #+#             */
+/*   Updated: 2024/08/15 17:04:27 by marvin           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 #include <unistd.h>
